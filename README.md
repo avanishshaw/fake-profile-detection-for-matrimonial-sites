@@ -41,6 +41,18 @@ python app.py
 ```
 The app will be available at `http://127.0.0.1:5000/`.
 
+
+## Screenshots
+
+Below are some example screenshots of the Fake Account Detection web app:
+
+### Home Page
+![Home Page](static/screenshot_home.png)
+
+### Prediction Result
+![Prediction Result](static/screenshot_real.png)
+![Prediction Result](static/screenshot_fake.png)
+
 ## Usage
 - Open the web app in your browser.
 - Fill in the required fields and submit the form.
